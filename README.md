@@ -1,4 +1,4 @@
-![Descrição alternativa](assets/dk1.gif)
+
 <img src="assets/dk1.gif" alt="Descrição alternativa" width="300" height="200">
 
 <!--
