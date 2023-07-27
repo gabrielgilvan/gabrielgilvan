@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Descrição alternativa](assets/dk1.gif)
 
 <!--
 **gabrielgilvan/gabrielgilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
