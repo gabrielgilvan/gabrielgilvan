@@ -1,5 +1,7 @@
 
 <img src="assets/dk1.gif" alt="Descrição alternativa" width="300" height="200">
+<img src="assets/diddy-kong-donkey-kong.gif" alt="Descrição alternativa" width="300" height="200">
+
 
 <!--
 **gabrielgilvan/gabrielgilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
